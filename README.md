@@ -1,4 +1,4 @@
-# TWRP device tree for Ulefone Armor 6
+# TWRP device tree for Ulefone Armor 6 / 6E
 
 ## About Device
 
@@ -15,7 +15,7 @@ GPU     | Mali-G72 MP3
 architecture | 64 bit
 Memory  | 6 GB RAM
 Shipped OS | Android 8.1
-Storage | 128 GB DDR4X (expandable storage up to 256GB (VFAT))
+Storage | 128 / 64 GB DDR4X (expandable storage up to 256GB (VFAT))
 Battery | Non-removable Li-Ion 5000mAh battery
 Height | 166mm
 Width | 75.6mm
