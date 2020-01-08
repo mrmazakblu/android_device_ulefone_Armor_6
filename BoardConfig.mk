@@ -1,5 +1,5 @@
 # Device path
-LOCAL_PATH := device/ulefone/Armor_6
+LOCAL_PATH := device/Ulefone/armor_6E
 
 # Architecture
 TARGET_ARCH := arm64

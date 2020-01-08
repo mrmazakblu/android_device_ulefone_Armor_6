@@ -1,5 +1,5 @@
 #
-# Ulefone Armor 6, Realme 3, UMIDIGI F1 Play
+# Ulefone Armor 6E
 #
 /boot_para	    emmc	/dev/block/platform/bootdevice/by-name/boot_para
 /recovery	    emmc	/dev/block/platform/bootdevice/by-name/recovery         flags=display="Recovery";backup=1
